@@ -1,5 +1,5 @@
 class Cat
-  aatr_accessor:name
+  attr_accessor:name
 end
 
 def meow
